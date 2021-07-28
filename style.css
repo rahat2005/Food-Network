@@ -119,7 +119,7 @@ footer{
 
 footer{
     padding-top: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 40px;
     text-align: center;
     
 }
@@ -130,4 +130,8 @@ footer{
 
 .font-size1{
     font-size: 35px;
+}
+.extra-padding{
+    padding-top: 28px;
+    
 }
